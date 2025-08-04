@@ -16,8 +16,11 @@ Sales Performance Dashboard
 │   └── dataset.csv  – Raw dataset 
 │
 ├── 📂 screenshots
-│   └── .png  – Screenshot of the final dashboard
-│
+│   └── Screenshot (433).png– Screenshot of the final dashboard
+│   └── Screenshot (434).png
+|   └── Screenshot (435).png
+|   └── Screenshot (436).png
+|   └── Screenshot (437).png
 ├── 📂 tableau
 │   └── Sales_Performance_Dashboard.twbx – Tableau dashboard file
 │
